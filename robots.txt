@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://KULLANICI-ADINIZ.github.io/turkce-oyun-yamalari/sitemap.xml
